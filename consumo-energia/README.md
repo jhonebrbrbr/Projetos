@@ -3,7 +3,7 @@ PROGRAMA: CALCULO DE ENERGIA
 [![Python](https://img.shields.io/badge/Python-4F4F4F)](https://www.python.org/)
 [![VsCode](https://img.shields.io/badge/VsCode-4169E1)](https://code.visualstudio.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000)](https://github.com/)
-[![Energia](https://img.shields.io/badge/Energia-FFFF00)
+![Energia](https://img.shields.io/badge/Energia-FFFF00)
 
 
 - Este programa tem a finalidade de calcular o consumo mensal de KWh/mês de determinado equipamento que o usuário inserir na entrada e tanto seu custo mensal (nesse calculo estamos considerando o valor fixo de R$ 0,75 por KWh)
