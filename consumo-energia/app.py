@@ -25,6 +25,7 @@ if exibir_consumo_reais == 'S' or exibir_consumo_reais == 's':
     consumo_em_reais = consumo_mensal * 0.75
     print(f"\n O consumo estimado mensal é de R$ {consumo_em_reais:.2f}")
 
+input("\n Digite enter para encerrar")
 
 
        
